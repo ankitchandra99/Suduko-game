@@ -1,4 +1,4 @@
-# Suduko-game
+# Suduku-game
 Sudoku Puzzle - A game for the mind.
 The Sudoku game is a popular puzzle game that has been enjoyed by people of all ages for many years. The game involves filling in a 9x9 grid with numbers from 1 to 9, so that each row, column, and 3x3 sub-grid contains all the digits from 1 to 9 without any repetition. The game has gained popularity due to its challenging nature and the fact that it requires logic and critical thinking skills.
 
